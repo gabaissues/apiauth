@@ -4,5 +4,5 @@ Aprendi com uns amigos a fazer uma estrutura mais legivel, e isso foi muito impo
 
 # Contribuidores
 
-@Em1dio
-@Isabelar07
+- @Em1dio
+- @Isabelar07
